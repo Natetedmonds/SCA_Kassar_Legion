@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Kassar Legion - Mercenaries for hire
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+The Kassar Legion is a roaming band of warriors, artisans, and entertainers. We travel the continental United States seeking war and fighting for the highest bidder.
